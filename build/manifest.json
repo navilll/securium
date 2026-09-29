@@ -1,0 +1,341 @@
+{
+  "_AuthWrapper-DzoKjv3l.js": {
+    "file": "assets/AuthWrapper-DzoKjv3l.js",
+    "name": "AuthWrapper",
+    "imports": [
+      "resources/js/app.jsx"
+    ],
+    "css": [
+      "assets/AuthWrapper-QYJbNaqY.css"
+    ]
+  },
+  "_AuthWrapper-QYJbNaqY.css": {
+    "file": "assets/AuthWrapper-QYJbNaqY.css",
+    "src": "_AuthWrapper-QYJbNaqY.css"
+  },
+  "_DeleteConfirmationModal-BHtPLBla.js": {
+    "file": "assets/DeleteConfirmationModal-BHtPLBla.js",
+    "name": "DeleteConfirmationModal",
+    "imports": [
+      "resources/js/app.jsx",
+      "_createLucideIcon-DCqdU8ZL.js"
+    ]
+  },
+  "_FormActions-D3CFmjym.js": {
+    "file": "assets/FormActions-D3CFmjym.js",
+    "name": "FormActions",
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "_GuestLayout-CYe5nqjo.js": {
+    "file": "assets/GuestLayout-CYe5nqjo.js",
+    "name": "GuestLayout",
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "_InputError-Bg9hUdbS.js": {
+    "file": "assets/InputError-Bg9hUdbS.js",
+    "name": "InputError",
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "_Pagination-BcwyRmwB.js": {
+    "file": "assets/Pagination-BcwyRmwB.js",
+    "name": "Pagination",
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "_TextInput-5T_vDyVu.js": {
+    "file": "assets/TextInput-5T_vDyVu.js",
+    "name": "TextInput",
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "_createLucideIcon-DCqdU8ZL.js": {
+    "file": "assets/createLucideIcon-DCqdU8ZL.js",
+    "name": "createLucideIcon",
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "_useCtrlSSubmit-Cj1hwLLC.js": {
+    "file": "assets/useCtrlSSubmit-Cj1hwLLC.js",
+    "name": "useCtrlSSubmit",
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "_useFlashMessage-yxoF7cwC.js": {
+    "file": "assets/useFlashMessage-yxoF7cwC.js",
+    "name": "useFlashMessage",
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "_useSearch-wpRfwUvt.js": {
+    "file": "assets/useSearch-wpRfwUvt.js",
+    "name": "useSearch",
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "resources/js/Pages/Auth/ConfirmPassword.jsx": {
+    "file": "assets/ConfirmPassword-Cn-GEAjZ.js",
+    "name": "ConfirmPassword",
+    "src": "resources/js/Pages/Auth/ConfirmPassword.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_InputError-Bg9hUdbS.js",
+      "_GuestLayout-CYe5nqjo.js",
+      "_TextInput-5T_vDyVu.js"
+    ]
+  },
+  "resources/js/Pages/Auth/ForgotPassword.jsx": {
+    "file": "assets/ForgotPassword-PvaqeTEZ.js",
+    "name": "ForgotPassword",
+    "src": "resources/js/Pages/Auth/ForgotPassword.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_AuthWrapper-DzoKjv3l.js"
+    ]
+  },
+  "resources/js/Pages/Auth/Login.jsx": {
+    "file": "assets/Login-v8-4zW0-.js",
+    "name": "Login",
+    "src": "resources/js/Pages/Auth/Login.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_AuthWrapper-DzoKjv3l.js"
+    ]
+  },
+  "resources/js/Pages/Auth/Register.jsx": {
+    "file": "assets/Register-whYbkwm5.js",
+    "name": "Register",
+    "src": "resources/js/Pages/Auth/Register.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_AuthWrapper-DzoKjv3l.js",
+      "_TextInput-5T_vDyVu.js"
+    ]
+  },
+  "resources/js/Pages/Auth/ResetPassword.jsx": {
+    "file": "assets/ResetPassword-CtFEHovN.js",
+    "name": "ResetPassword",
+    "src": "resources/js/Pages/Auth/ResetPassword.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_AuthWrapper-DzoKjv3l.js"
+    ]
+  },
+  "resources/js/Pages/Auth/VerifyEmail.jsx": {
+    "file": "assets/VerifyEmail-D8T6FlsP.js",
+    "name": "VerifyEmail",
+    "src": "resources/js/Pages/Auth/VerifyEmail.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_GuestLayout-CYe5nqjo.js"
+    ]
+  },
+  "resources/js/Pages/ContactForm/Index.jsx": {
+    "file": "assets/Index-89VoArhd.js",
+    "name": "Index",
+    "src": "resources/js/Pages/ContactForm/Index.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_useFlashMessage-yxoF7cwC.js",
+      "_DeleteConfirmationModal-BHtPLBla.js",
+      "_Pagination-BcwyRmwB.js",
+      "_useSearch-wpRfwUvt.js",
+      "_createLucideIcon-DCqdU8ZL.js"
+    ]
+  },
+  "resources/js/Pages/Courses/Categories.jsx": {
+    "file": "assets/Categories-wH25etiD.js",
+    "name": "Categories",
+    "src": "resources/js/Pages/Courses/Categories.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_useFlashMessage-yxoF7cwC.js",
+      "_DeleteConfirmationModal-BHtPLBla.js",
+      "_createLucideIcon-DCqdU8ZL.js"
+    ]
+  },
+  "resources/js/Pages/Courses/Create.jsx": {
+    "file": "assets/Create-rvyBKfQI.js",
+    "name": "Create",
+    "src": "resources/js/Pages/Courses/Create.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_FormActions-D3CFmjym.js",
+      "resources/js/Pages/Courses/partials/CourseForm.jsx",
+      "_DeleteConfirmationModal-BHtPLBla.js",
+      "_createLucideIcon-DCqdU8ZL.js"
+    ]
+  },
+  "resources/js/Pages/Courses/Edit.jsx": {
+    "file": "assets/Edit-C4siS01_.js",
+    "name": "Edit",
+    "src": "resources/js/Pages/Courses/Edit.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_FormActions-D3CFmjym.js",
+      "resources/js/Pages/Courses/partials/CourseForm.jsx",
+      "_DeleteConfirmationModal-BHtPLBla.js",
+      "_createLucideIcon-DCqdU8ZL.js"
+    ]
+  },
+  "resources/js/Pages/Courses/Index.jsx": {
+    "file": "assets/Index-BYGmL5Tp.js",
+    "name": "Index",
+    "src": "resources/js/Pages/Courses/Index.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_useFlashMessage-yxoF7cwC.js",
+      "_DeleteConfirmationModal-BHtPLBla.js",
+      "_Pagination-BcwyRmwB.js",
+      "_createLucideIcon-DCqdU8ZL.js"
+    ]
+  },
+  "resources/js/Pages/Courses/partials/CourseForm.jsx": {
+    "file": "assets/CourseForm-D7ISouLr.js",
+    "name": "CourseForm",
+    "src": "resources/js/Pages/Courses/partials/CourseForm.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_DeleteConfirmationModal-BHtPLBla.js",
+      "_createLucideIcon-DCqdU8ZL.js"
+    ],
+    "css": [
+      "assets/CourseForm-D_2sSF7M.css"
+    ]
+  },
+  "resources/js/Pages/Dashboard/CourseDashboard.jsx": {
+    "file": "assets/CourseDashboard-DkHaQNBZ.js",
+    "name": "CourseDashboard",
+    "src": "resources/js/Pages/Dashboard/CourseDashboard.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_createLucideIcon-DCqdU8ZL.js"
+    ],
+    "css": [
+      "assets/CourseDashboard-DxaCAgpR.css"
+    ]
+  },
+  "resources/js/Pages/Profile/Partials/DeleteUserForm.jsx": {
+    "file": "assets/DeleteUserForm-B7uD-SCQ.js",
+    "name": "DeleteUserForm",
+    "src": "resources/js/Pages/Profile/Partials/DeleteUserForm.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "resources/js/Pages/Profile/UpdateProfile.jsx": {
+    "file": "assets/UpdateProfile-BsJKDn4T.js",
+    "name": "UpdateProfile",
+    "src": "resources/js/Pages/Profile/UpdateProfile.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "resources/js/Pages/User/Create.jsx": {
+    "file": "assets/Create-M_aVId42.js",
+    "name": "Create",
+    "src": "resources/js/Pages/User/Create.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_FormActions-D3CFmjym.js",
+      "resources/js/Pages/User/partials/UserForm.jsx",
+      "_useCtrlSSubmit-Cj1hwLLC.js",
+      "_InputError-Bg9hUdbS.js",
+      "_createLucideIcon-DCqdU8ZL.js"
+    ]
+  },
+  "resources/js/Pages/User/Edit.jsx": {
+    "file": "assets/Edit-C_e5nNxh.js",
+    "name": "Edit",
+    "src": "resources/js/Pages/User/Edit.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_FormActions-D3CFmjym.js",
+      "resources/js/Pages/User/partials/UserForm.jsx",
+      "_useCtrlSSubmit-Cj1hwLLC.js",
+      "_InputError-Bg9hUdbS.js",
+      "_createLucideIcon-DCqdU8ZL.js"
+    ]
+  },
+  "resources/js/Pages/User/Index.jsx": {
+    "file": "assets/Index-CBdJkgz6.js",
+    "name": "Index",
+    "src": "resources/js/Pages/User/Index.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_useFlashMessage-yxoF7cwC.js",
+      "_Pagination-BcwyRmwB.js",
+      "_useSearch-wpRfwUvt.js"
+    ]
+  },
+  "resources/js/Pages/User/partials/UserForm.jsx": {
+    "file": "assets/UserForm-Asqs6SCq.js",
+    "name": "UserForm",
+    "src": "resources/js/Pages/User/partials/UserForm.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_InputError-Bg9hUdbS.js",
+      "_createLucideIcon-DCqdU8ZL.js"
+    ]
+  },
+  "resources/js/app.jsx": {
+    "file": "assets/app-ZfbQYt2D.js",
+    "name": "app",
+    "src": "resources/js/app.jsx",
+    "isEntry": true,
+    "dynamicImports": [
+      "resources/js/Pages/Auth/ConfirmPassword.jsx",
+      "resources/js/Pages/Auth/ForgotPassword.jsx",
+      "resources/js/Pages/Auth/Login.jsx",
+      "resources/js/Pages/Auth/Register.jsx",
+      "resources/js/Pages/Auth/ResetPassword.jsx",
+      "resources/js/Pages/Auth/VerifyEmail.jsx",
+      "resources/js/Pages/ContactForm/Index.jsx",
+      "resources/js/Pages/Courses/Categories.jsx",
+      "resources/js/Pages/Courses/Create.jsx",
+      "resources/js/Pages/Courses/Edit.jsx",
+      "resources/js/Pages/Courses/Index.jsx",
+      "resources/js/Pages/Courses/partials/CourseForm.jsx",
+      "resources/js/Pages/Dashboard/CourseDashboard.jsx",
+      "resources/js/Pages/Profile/Partials/DeleteUserForm.jsx",
+      "resources/js/Pages/Profile/UpdateProfile.jsx",
+      "resources/js/Pages/User/Create.jsx",
+      "resources/js/Pages/User/Edit.jsx",
+      "resources/js/Pages/User/Index.jsx",
+      "resources/js/Pages/User/partials/UserForm.jsx"
+    ],
+    "css": [
+      "assets/app-DfsUewca.css"
+    ]
+  }
+}

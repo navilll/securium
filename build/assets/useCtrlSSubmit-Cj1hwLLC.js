@@ -1,0 +1,1 @@
+import{r as s}from"./app-ZfbQYt2D.js";const n=(e,t=!0)=>{s.useEffect(()=>{if(!t||typeof e!="function")return;const o=r=>{(navigator.platform.toUpperCase().indexOf("MAC")>=0?r.metaKey:r.ctrlKey)&&r.key.toLowerCase()==="s"&&(r.preventDefault(),e==null||e(r))};return window.addEventListener("keydown",o),()=>window.removeEventListener("keydown",o)},[e,t])};export{n as u};

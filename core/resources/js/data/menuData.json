@@ -1,0 +1,47 @@
+[
+    {
+        "header": "",
+        "items": [
+            {
+                "text": "Dashboard",
+                "icon": "bx bx-qr",
+                "available": true,
+                "link": "dashboard"
+            }
+        ]
+    },
+    {
+        "header": "CONTENT MANAGEMENT",
+        "items": [
+            {
+                "text": "Courses",
+                "icon": "bx bx-book-open",
+                "available": true,
+                "link": "courses.index"
+            }
+        ]
+    },
+    {
+        "header": "User Management & Forms",
+        "items": [
+            {
+                "text": "Settings",
+                "icon": "bx bx-cog",
+                "available": true,
+                "link": "",
+                "submenu": [
+                    {
+                        "text": "Enquiry",
+                        "available": true,
+                        "link": "contact-forms.index"
+                    },
+                    {
+                        "text": "Update Profile",
+                        "available": true,
+                        "link": "profile.edit"
+                    }
+                ]
+            }
+        ]
+    }
+]
